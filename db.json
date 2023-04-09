@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "meeting my friends",
+      "day": "fri 5:00PM",
+      "reminder": true
+    },
+    {
+      "text": "finish the react demo challenge",
+      "day": "thursday 6:00PM",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "translating with friend in wvn",
+      "day": "thursday 9:30 AM",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "finish socket.io",
+      "day": "mon 2:00 PM",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
